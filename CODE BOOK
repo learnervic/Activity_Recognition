@@ -1,0 +1,5 @@
+ Download the dataset from folder UCI HAR dataset
+Assign all datasets into variables with column names 
+combine the datasets
+Clean up the descriptions of the column names 
+Group by activity and subject and take the mean, final dataset saved as STEP5Data
